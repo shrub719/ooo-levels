@@ -8,7 +8,5 @@
 0 0 swap
 0 1 sub
 0 2 swap
-2 2 mul
 1 3 sub
 1 0 mul
-1 1 swap
