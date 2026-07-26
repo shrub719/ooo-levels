@@ -14,11 +14,11 @@ shrub
 swapadd
 shift-1
 shift-2
+train
+buckle
 tutorial-glyph-1
 tutorial-glyph-2
 tutorial-block
-train
-buckle
 rocket
 lovers-2
 butterfly-effect
