@@ -1,4 +1,3 @@
-playground
 tutorial-add
 tutorial-chain
 fortress

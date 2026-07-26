@@ -1,28 +1,14 @@
-Link
-7 5
+Accretion
+5 3
+Shadow operations are destroyed when a zero is made.
 
-0 0 gswap
-1 0 gswap
+0 0 2
+4 0 2
+0 1 vswap
+2 1 vswap
+0 2 gswap
+2 2 gswap
+
+0 0 gequ
+1 0 mul
 2 0 gswap
-3 0 gswap
-4 0 gswap
-5 0 gswap
-6 0 gswap
-0 4 gswap
-1 4 gswap
-2 4 gswap
-3 4 gswap
-4 4 gswap
-5 4 gswap
-6 4 gswap
-0 1 2
-6 1 8
-1 1 swap
-3 1 add
-5 1 swap
-0 2 vswap
-6 2 vswap
-
-0 0 swap
-1 0 swap
-2 0 add
