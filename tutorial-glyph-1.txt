@@ -1,6 +1,5 @@
 Accretion
 5 3
-Shadow operations are destroyed when a zero is made.
 
 0 0 2
 4 0 2
