@@ -1,5 +1,6 @@
 Synchrony
 8 4
+Shadow operations are destroyed when a zero is made.
 
 0 0 6
 0 2 2
