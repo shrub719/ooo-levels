@@ -1,0 +1,22 @@
+Annihilation
+9 5
+
+0 2 5
+1 2 gequ
+3 2 gequ
+5 2 gequ
+7 2 gequ
+8 2 5
+
+0 0 swap
+1 0 vswap
+2 0 gswap
+0 1 swap
+1 1 vswap
+2 1 swap
+0 2 swap
+1 2 vswap
+2 2 gswap
+0 3 swap
+1 3 vswap
+2 3 swap
