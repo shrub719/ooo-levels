@@ -5,6 +5,7 @@ cascade
 tutorial-swap-1
 mirror-1
 tutorial-swap-2
+simulswap-0
 simulswap-1
 simulswap-2
 mirror-2

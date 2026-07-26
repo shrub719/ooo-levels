@@ -1,0 +1,11 @@
+Tug of War
+9 1
+
+0 0 9
+1 0 add
+8 0 9
+7 0 add
+4 0 1
+
+1 2 swap
+2 1 swap
